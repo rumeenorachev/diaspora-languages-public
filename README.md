@@ -63,5 +63,63 @@ Puedes probar la aplicación accediendo a una clase demo:
 
 Para completar el registro, utiliza el siguiente DNI de prueba:
 
-```text
 12345678A
+
+Una vez dentro, puedes explorar la aplicación y utilizar el chat.
+
+---
+
+## 📸 Capturas
+
+### 📱 Vista general
+
+![Mockup](assets/mockup.png)
+
+---
+
+### 🏠 Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+### 💬 Chat de clase
+
+![Chat](assets/chat.png)
+
+---
+
+### 📝 Exámenes y resultados
+
+![Exams](assets/exams.png)
+
+---
+
+## 🔒 Nota sobre el código
+
+El código fuente completo del proyecto no se publica de forma íntegra por incluir lógica de negocio real, configuración de despliegue y elementos internos del sistema actualmente en uso.
+
+Este repositorio tiene como objetivo mostrar el funcionamiento, arquitectura y acceso a la aplicación.
+
+---
+
+## 🌐 Más información
+
+- Portfolio: https://www.rumenorachev.es  
+- GitHub: https://github.com/rumeenorachev  
+- LinkedIn: https://www.linkedin.com/in/rumenorachev/
+
+---
+
+## 📌 Estado del proyecto
+
+✅ Aplicación en producción  
+✅ Usuarios reales activos  
+✅ Publicada en tiendas móviles  
+
+---
+
+## ✨ Autor
+
+**Rumen Orachev**  
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
