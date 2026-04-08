@@ -114,7 +114,6 @@ Este repositorio tiene como objetivo mostrar el funcionamiento, arquitectura y a
 ## 🌐 Más información
 
 - Portfolio: https://www.rumenorachev.es  
-- GitHub: https://github.com/rumeenorachev  
 - LinkedIn: https://www.linkedin.com/in/rumenorachev/
 
 ---
@@ -129,5 +128,5 @@ Este repositorio tiene como objetivo mostrar el funcionamiento, arquitectura y a
 
 ## ✨ Autor
 
-**Rumen Orachev**  
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+**Rumen Orachev Orachev**  
+Programador Full Stack
