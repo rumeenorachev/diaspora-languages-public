@@ -129,4 +129,4 @@ Este repositorio tiene como objetivo mostrar el funcionamiento, arquitectura y a
 ## ✨ Autor
 
 **Rumen Orachev Orachev**  
-Programador Full Stack
+<span style="color:#E63946; font-weight:600;">Programador Full Stack</span>
