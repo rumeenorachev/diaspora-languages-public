@@ -73,25 +73,33 @@ Una vez dentro, puedes explorar la aplicación y utilizar el chat.
 
 ### 📱 Vista general
 
-![Mockup](assets/mockup.png)
+<p align="center">
+  <img src="assets/mockup.png" width="300"/>
+</p>
 
 ---
 
 ### 🏠 Dashboard
 
-![Dashboard](assets/dashboard.png)
+<p align="center">
+  <img src="assets/dashboard.png" width="300"/>
+</p>
 
 ---
 
 ### 💬 Chat de clase
 
-![Chat](assets/chat.png)
+<p align="center">
+  <img src="assets/chat.png" width="300"/>
+</p>
 
 ---
 
 ### 📝 Exámenes y resultados
 
-![Exams](assets/exams.png)
+<p align="center">
+  <img src="assets/exams.png" width="300"/>
+</p>
 
 ---
 
