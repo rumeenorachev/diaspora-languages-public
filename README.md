@@ -71,7 +71,7 @@ Una vez dentro, puedes explorar la aplicación y utilizar el chat.
 
 ## 📸 Capturas
 
-### 📱 Vista general
+### 📱 Mockup
 
 <p align="center">
   <img src="assets/mockup.png" width="300"/>
