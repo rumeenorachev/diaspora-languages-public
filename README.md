@@ -104,11 +104,10 @@ tenant después de autenticarse y adapta la experiencia de forma dinámica.
 ## Distribución
 
 - **Android:** [Google Play](https://play.google.com/store/apps/details?id=es.rumenorachev.diaspora&hl=es)
-- **iOS:** [App Store](https://apps.apple.com/es/app/diaspora-languages/id6760665894) (versión anterior; la nueva ficha de Rumevia está pendiente de App Review).
+- **iOS:** [App Store](https://apps.apple.com/es/app/diaspora-languages/id6760665894)
 
 Rumevia 2.0.0 ha sido validada en dispositivos físicos y en los canales internos
-de ambas tiendas. El lanzamiento de Android ha superado la revisión de Google
-Play; la publicación se mantiene bajo control manual.
+de ambas tiendas y está disponible para iOS y Android.
 
 ## Evolución
 
