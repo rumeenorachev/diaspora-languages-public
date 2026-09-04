@@ -104,7 +104,7 @@ tenant después de autenticarse y adapta la experiencia de forma dinámica.
 ## Distribución
 
 - **Android:** [Google Play](https://play.google.com/store/apps/details?id=es.rumenorachev.diaspora&hl=es)
-- **iOS:** [App Store](https://apps.apple.com/es/app/diaspora-languages/id6760665894)
+- **iOS:** [App Store](https://apps.apple.com/us/app/rumevia/id6799926885)
 
 Rumevia 2.0.0 ha sido validada en dispositivos físicos y en los canales internos
 de ambas tiendas y está disponible para iOS y Android.
@@ -129,9 +129,3 @@ credenciales, datos de clientes ni configuración operativa sensible.
 - Soporte: [rumevia.com/support](https://rumevia.com/support/)
 - Privacidad: [rumevia.com/legal/privacy](https://rumevia.com/legal/privacy/)
 - Eliminación de cuenta: [rumevia.com/account-deletion](https://rumevia.com/account-deletion/)
-- Portfolio: [rumenorachev.es](https://www.rumenorachev.es/)
-- LinkedIn: [Rumen Orachev](https://www.linkedin.com/in/rumenorachev/)
-
-## Autor
-
-**Rumen Orachev Orachev**
